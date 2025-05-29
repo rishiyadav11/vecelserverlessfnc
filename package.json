@@ -2,6 +2,7 @@
   "name": "gym-backend",
   "type": "module",
   "dependencies": {
-    "mongodb": "^5.7.0"
+    "mongodb": "^5.7.0",
+    "vercel": "^42.2.0"
   }
 }
